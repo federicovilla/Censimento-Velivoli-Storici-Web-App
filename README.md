@@ -4,7 +4,7 @@ di [Federico Villa](https://gavs.it)
 
 Questo documento intende fornire informazioni sulle logiche di impostazione e informazioni di uso e gestione della applicazione web del Censimento Velivoli Storici, sviluppata dal database su Access di Sergio Morelli.
 
-Il GAVS Lombardia ha avviato, a partire dal 2020, un Progetto volto alla catalogazione dei Velivoli Storici esistenti nel territorio e finalizzato alla loro identificazione, classificazione, storicizzazione e mantenimento documentale nel tempo. Nato da una idea di Paolo Stanchina, basato sulle Specifiche di progetto definite da Gregory Alegi e realizzato da Sergio Morelli.
+Il GAVS Lombardia ha avviato, a partire dal 2020, un Progetto volto alla catalogazione dei Velivoli Storici esistenti nel territorio e finalizzato alla loro identificazione, classificazione, storicizzazione e mantenimento documentale nel tempo. Nato da una idea di Maurizio Longoni e Paolo Stanchina, basato sulle Specifiche di progetto definite da Gregory Alegi e realizzato da Sergio Morelli.
 
 Il Database nasce da una raccolta di informazioni preesistenti, provenienti da diversi percorsi: bibliografici, info storiche, ricognizioni o segnalazioni da fonti sul territorio e possibilmente strutturate negli anni.
 
